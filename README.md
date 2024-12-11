@@ -37,6 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunildivase&show_icons=true&locale=en" alt="sunildivase" /></p>
 
 ### My github stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunildivase&" alt="sunildivase" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunildivase&" alt="sunildivase" /></p> -->
 
 [![sunildivase's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=sunildivase&custom_title=sunildivase%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/sunildivase)

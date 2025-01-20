@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Divase</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="Coding" width="500" src="">
-
 - 🔭 I’m currently working on **java ,Spring ,Spring Boot ,ms-sql ,Docker and many more**
 
 - 🌱 I’m currently learning **java fullstack developer**

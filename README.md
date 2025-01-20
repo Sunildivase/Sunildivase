@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Divase</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<img align="right" alt="Coding" width="500" src="">
 
 - 🔭 I’m currently working on **java ,Spring ,Spring Boot ,ms-sql ,Docker and many more**
 
@@ -31,10 +32,10 @@
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{sunildivase}/count.svg).
 
-### Badges:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunildivase&show_icons=true&locale=en&layout=compact" alt="sunildivase" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunildivase&show_icons=true&locale=en" alt="sunildivase" /></p>
+## My GitHub Stats & Badges
+| <img src="https://github-profile-trophy.vercel.app/?username=Sunildivase" alt="Sunildivase" /> |
+| <a href="https://github.com/Sunildivase/Sunildivase"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sunildivase&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sunil's github stats" /></a> | <a href="https://github.com/Sunildivase/Sunildivase"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunildivase&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
 
 ### My github stats:
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunildivase&" alt="sunildivase" /></p> -->
